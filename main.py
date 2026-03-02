@@ -21,10 +21,10 @@ def Play1(e):
      'Simrandip Kaur',
      'Sebastian Chilli Ong', 
      'Carl Joseph Rufo',
-     ' Miquel Joaquin Sanchez',
+     ' Miguel Joaquin Sanchez',
      'Ramon Santos',
       'Allen Daradal',
-     'Beatrice Vilale',
+     'Beatrix Vilale',
      'Deryck Tan', 
      'Harmony Gail Yao',
        'Ivy Zosa',
@@ -38,3 +38,4 @@ def Play1(e):
 
     for num in Players:
         display (num, target='output')
+
